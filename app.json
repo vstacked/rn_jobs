@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "rn_jobs",
-    "slug": "rn_jobs"
+    "slug": "rn_jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "0f69e18b-cda8-4cb7-b035-fd1cf972873d"
+      }
+    },
+    "android": {
+      "package": "com.vstacked.rn_jobs"
+    }
   }
 }
